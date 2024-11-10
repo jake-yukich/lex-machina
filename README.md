@@ -1,2 +1,2 @@
 # lex-machina
-an NLP / LLM lexinomicon
+an NLP / LLM lexinomicon for writers
